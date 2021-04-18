@@ -1,0 +1,116 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/inis_pat.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["\uE000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/inis_yan.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["\uE001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/inis_pog.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["\uE002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/inis_heart.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["\uE003"]
+        },
+	    {
+            "type": "bitmap",
+            "file": "minecraft:custom/inis_blush.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["\uE004"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/inis_sed.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["\uE005"]
+        },
+	    {
+            "type": "bitmap",
+            "file": "minecraft:custom/feels_dab.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["\uE006"]
+        },
+	    {
+            "type": "bitmap",
+            "file": "minecraft:custom/inis_comfy.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["\uE007"]
+        },
+	    {
+            "type": "bitmap",
+            "file": "minecraft:custom/inis_doubt.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["\uE008"]
+        },
+	    {
+            "type": "bitmap",
+            "file": "minecraft:custom/inis_dab.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["\uE009"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/inis_mah.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["\uE00a"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/inis_bepis.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["\uE00b"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/hyper_cane.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["\uE00c"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/inis_party.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["\uE00d"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/inis_angi.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["\uE00e"]
+        },
+        {
+            "type": "ttf",
+            "file": "minecraft:negative_spaces.ttf",
+            "shift": [0.0, 0.0],
+            "size": 10.0,
+            "oversample": 1.0
+        }
+    ]
+}
